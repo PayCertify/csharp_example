@@ -28,6 +28,4 @@
 /Users/paulopires/Code/paycertify/plugin/csharp-example/obj/Debug/netcoreapp2.2/csharp-example.pdb
 /Users/paulopires/Code/paycertify/plugin/csharp-example/obj/Debug/netcoreapp2.2/csharp-example.csproj.CopyComplete
 /Users/paulopires/Code/paycertify/plugin/csharp-example/obj/Debug/netcoreapp2.2/Razor/Pages/_CardDetails.g.cshtml.cs
-/Users/paulopires/Code/paycertify/plugin/csharp-example/bin/Debug/netcoreapp2.2/PayCertify.dll
-/Users/paulopires/Code/paycertify/plugin/csharp-example/bin/Debug/netcoreapp2.2/PayCertify.pdb
 /Users/paulopires/Code/paycertify/plugin/csharp-example/obj/Debug/netcoreapp2.2/Razor/Pages/ThankYou.g.cshtml.cs

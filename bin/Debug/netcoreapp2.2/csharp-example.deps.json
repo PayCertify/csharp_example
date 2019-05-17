@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "867d8d7a9a0d958e295f4d3eb76ca76e67ad08ce"
+    "signature": "d841cc265c367cbfb15dc47f5d00c288529fed38"
   },
   "compilationOptions": {
     "defines": [
@@ -27,7 +27,7 @@
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
-          "PayCertify": "1.0.0"
+          "PayCertify": "2.1.0"
         },
         "runtime": {
           "csharp-example.dll": {}
@@ -65,16 +65,19 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "PayCertify/1.0.0": {
+      "PayCertify/2.1.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http": "2.2.2",
           "Newtonsoft.Json": "12.0.2"
         },
         "runtime": {
-          "PayCertify.dll": {}
+          "lib/netstandard2.0/PayCertify.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
-          "PayCertify.dll": {}
+          "lib/netstandard2.0/PayCertify.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3274,10 +3277,12 @@
       "path": "newtonsoft.json/12.0.2",
       "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
     },
-    "PayCertify/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
+    "PayCertify/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iFnWstAfbL3GcGN+RZGO6ru2ItJg6GwDUyrF4AkICST+CuCmEe1+29MiSwK17gTai0WtwCjocxYlDpyQmo2PXg==",
+      "path": "paycertify/2.1.0",
+      "hashPath": "paycertify.2.1.0.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
